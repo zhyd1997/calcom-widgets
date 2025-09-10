@@ -1,4 +1,4 @@
-# Cal.com components
+# Cal.com Widgets UI components
 
 *Automatically synced with your [v0.app](https://v0.app) deployments*
 
