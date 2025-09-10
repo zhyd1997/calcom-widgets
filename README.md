@@ -12,15 +12,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 ## Deployment
 
-Your project is live at:
-
-**[https://vercel.com/zhyd1997s-projects/v0-cal-com-components](https://vercel.com/zhyd1997s-projects/v0-cal-com-components)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/XICKPurjLB1](https://v0.app/chat/projects/XICKPurjLB1)**
+- Vercel
 
 ## How It Works
 
