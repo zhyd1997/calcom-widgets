@@ -7,6 +7,7 @@ import { ArrowUpRight, Gift, Link2, Calendar, Star } from "lucide-react"
 import { Card, CardHeader, CardTitle, CardContent, CardFooter } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { cn } from "@/lib/utils"
+import Image from "next/image"
 
 /**
  * 🔗 Put your Cal.com referral URL here or pass via props.
@@ -164,7 +165,7 @@ export function CalCompactSidebarCard({ href = REF_URL }: { href?: string }) {
     <Card className="sticky top-24 rounded-2xl border bg-background/70 p-4 shadow-sm">
       <div className="mb-2 flex items-center gap-2">
         <div className="grid h-9 w-9 place-items-center rounded-xl bg-primary/10">
-          <Link2 className="h-4 w-4 text-primary" />
+          <Image src="/cal-com-logo-coGp.png" alt="Cal.com Logo" width={16} height={1} />
         </div>
         <div>
           <div className="text-sm font-semibold">Cal.com</div>
