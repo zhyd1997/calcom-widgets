@@ -10,6 +10,22 @@
 This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
 Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
 
+## Usage
+
+Embed on your blog or website
+
+```tsx
+/**
+ * Usage examples (copy into your MDX/TSX):
+ *
+ * <CalMidPostCallout />
+ * <CalProseInline />
+ * <CalPostFooterCTA />
+ * <CalStickyFooterBanner />
+ * <CalCompactSidebarCard />
+ */
+```
+
 ## Components
 
 - Referral UI
